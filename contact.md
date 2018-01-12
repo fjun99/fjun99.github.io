@@ -1,5 +1,5 @@
 ---
 layout: page
-title:contact
+title: contact
 ---
 this is contacact page
