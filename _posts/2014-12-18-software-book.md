@@ -25,9 +25,7 @@ tags:
 
 但不能只谈战略产品、用户体验啊，开发过程的痛苦都经历着呢，这里推荐一些只要你准备开发就不妨看看的经典。小提醒一句，不要被书名吓倒，都可以看的。其实，这些都是管理书籍，不过他们管理的是代码、软件、产品的生成过程，而不是生意、业务、人、营销、战略、财务等等。
 
-<!--more-->
-
-<img src="http://www.ideastalk.net/wp-content/uploads/2014/12/001.jpg" alt="001" class="aligncenter size-full wp-image-40" srcset="http://www.ideastalk.net/wp-content/uploads/2014/12/001.jpg 306w, http://www.ideastalk.net/wp-content/uploads/2014/12/001-250x355.jpg 250w, http://www.ideastalk.net/wp-content/uploads/2014/12/001-120x170.jpg 120w" sizes="(max-width: 306px) 100vw, 306px" />
+![设计原本](https://img1.doubanio.com/lpic/s26543619.jpg)
 
 《设计原本：计算机科学巨匠Frederick P. Brooks的思考》（The Design of Design）
   
@@ -37,7 +35,9 @@ tags:
 
 要从这本书里面找出一句扼要观点不容易，只能说，这本Brooks经典文章组成的文集把设计过程描绘清楚了。无论设计一个大型软件，设计一个公司，设计一个小屋，他发现那些隐约的共通之处。
 
-<img src="http://www.ideastalk.net/wp-content/uploads/2014/12/002.jpg" alt="002" class="aligncenter size-full wp-image-41" srcset="http://www.ideastalk.net/wp-content/uploads/2014/12/002.jpg 294w, http://www.ideastalk.net/wp-content/uploads/2014/12/002-250x385.jpg 250w, http://www.ideastalk.net/wp-content/uploads/2014/12/002-120x184.jpg 120w" sizes="(max-width: 294px) 100vw, 294px" />
+
+![设计规则：模块化的力量](https://img3.doubanio.com/lpic/s1628873.jpg)
+
 
 《设计规则：模块化的力量》（Design Rules）
   
@@ -49,7 +49,7 @@ tags:
 
 如果不想看这本，有青木昌彦的《模块时代：新产业结构的本质》小册子可参阅。另很可惜的是，《设计原则》这本书有个令人崩溃之处，出版了第一卷之后，14年过去了，迄今还没有出版第二卷，不知两位老先生是否还会写。
 
-<img src="http://www.ideastalk.net/wp-content/uploads/2014/12/003.jpg" alt="003" class="aligncenter size-full wp-image-42" srcset="http://www.ideastalk.net/wp-content/uploads/2014/12/003.jpg 291w, http://www.ideastalk.net/wp-content/uploads/2014/12/003-250x389.jpg 250w, http://www.ideastalk.net/wp-content/uploads/2014/12/003-120x186.jpg 120w" sizes="(max-width: 291px) 100vw, 291px" />
+![像外行一样思考，像专家一样实践](https://img3.doubanio.com/lpic/s2139766.jpg)
 
 《像外行一样思考，像专家一样实践》
   
@@ -61,7 +61,8 @@ tags:
 
 金出武雄是CMU的计算机科学与机器人教授。
 
-<img src="http://www.ideastalk.net/wp-content/uploads/2014/12/004.jpg" alt="004" class="aligncenter size-full wp-image-43" srcset="http://www.ideastalk.net/wp-content/uploads/2014/12/004.jpg 294w, http://www.ideastalk.net/wp-content/uploads/2014/12/004-250x382.jpg 250w, http://www.ideastalk.net/wp-content/uploads/2014/12/004-120x183.jpg 120w" sizes="(max-width: 294px) 100vw, 294px" />
+![技术领导者之路](https://img3.doubanio.com/lpic/s29658804.jpg)
+
 
 《技术领导者之路》(Becoming A Technical Leader)
   
@@ -73,7 +74,7 @@ tags:
 
 对工程师来说，这相当于人们经常推荐给经理的第一本书，也就是《格鲁夫给经理人的第一课》，有趣的是，格鲁夫也是一个工程师，这本书实际上是他早年写给自己的。
 
-<img src="http://www.ideastalk.net/wp-content/uploads/2014/12/005.jpg" alt="005" class="aligncenter size-full wp-image-44" srcset="http://www.ideastalk.net/wp-content/uploads/2014/12/005.jpg 140w, http://www.ideastalk.net/wp-content/uploads/2014/12/005-120x151.jpg 120w" sizes="(max-width: 140px) 100vw, 140px" />
+![人月神话](https://img3.doubanio.com/lpic/s28040623.jpg)
 
 《人月神话》
   
@@ -87,7 +88,7 @@ tags:
 
 说起开发过程，《精益创业》是这些年少有的把日本丰田精益生产方式和软件开发过程联系的书，精益生产和开发有很多关联之处。书中他说，不要问“这个产品能开发出来吗？”，而是要问“需要开发这个产品吗？围绕这个产品和业务，能建立起可持续的业务吗？”
 
-<img src="http://www.ideastalk.net/wp-content/uploads/2014/12/006.jpg" alt="006" class="aligncenter size-full wp-image-45" srcset="http://www.ideastalk.net/wp-content/uploads/2014/12/006.jpg 306w, http://www.ideastalk.net/wp-content/uploads/2014/12/006-250x355.jpg 250w, http://www.ideastalk.net/wp-content/uploads/2014/12/006-120x170.jpg 120w" sizes="(max-width: 306px) 100vw, 306px" />
+![设计，人类的本性](https://img1.doubanio.com/lpic/s23007467.jpg)
 
 《设计，人类的本性》（To Engineer Is Human）
   
@@ -101,7 +102,7 @@ tags:
 
 写完推荐发现一个有趣的事，以「求异」的原则找出来书，多数都在说「设计」，但此设计不是彼设计。
 
-&#8211; 
+
 
 推荐人介绍（这家伙具体是干什么坏事的？）
 

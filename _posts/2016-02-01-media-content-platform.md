@@ -200,7 +200,7 @@ IP，是投资领域的热门词，关于从IP中获利的重要问题是：投�
 该书从财务和战略视角分析了美国主要传媒公司的业绩和业务模式，包括时代华纳、迪斯尼、新闻集团、彭博等，并且给出的结论是媒体与内容人通常难以接受的。书中列出传媒业的正派竞争优势和假想优势，如下图所示。
 
 竞争优势：正牌优势与假想优势
-  
-<img src="http://www.ideastalk.net/wp-content/uploads/2016/02/mediacompetence.png" alt="mediacompetence" class="aligncenter size-full wp-image-141" srcset="http://www.ideastalk.net/wp-content/uploads/2016/02/mediacompetence.png 601w, http://www.ideastalk.net/wp-content/uploads/2016/02/mediacompetence-250x200.png 250w, http://www.ideastalk.net/wp-content/uploads/2016/02/mediacompetence-120x96.png 120w" sizes="(max-width: 601px) 100vw, 601px" />
-  
+
+![竞争优势：正牌优势与假想优势](/images/mediacompetence.png)
+   
 来源：《被诅咒的巨头：传媒大亨们为什么走上了穷途末路？》，P28页，第二章：竞争优势格局纵览

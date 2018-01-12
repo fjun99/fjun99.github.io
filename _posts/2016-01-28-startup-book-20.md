@@ -31,7 +31,7 @@ tags:
 
 1,《网络经济的十种策略》，凯文·凯利（Kevin Kelly, KK）,广州出版社，2000年
 
-<img src="http://img3.douban.com/lpic/s28376191.jpg" width="342" height="390" class="alignnone" />
+![新经济新规则](https://img3.doubanio.com/lpic/s28376191.jpg)
 
 “蜜蜂比狮子重要；级数比加法重要；普及比稀有重要；免费比利润重要；网络比公司重要；造山比登山重要；空间比场所重要；流动比平衡重要；关系比产能重要；机会比效率重要。”
 
@@ -39,7 +39,8 @@ tags:
 
 2,《创业维艰：如何完成比难更难的事》，本·霍洛维茨/著，中信出版社，2015年
 
-<img src="http://img3.doubanio.com/lpic/s28007966.jpg" width="318" height="417" class="alignnone" />
+![创业维艰：如何完成比难更难的事](http://img3.doubanio.com/lpic/s28007966.jpg)
+
 
 “创业公司的CEO不应该计算成功的概率。创建公司时，你必须坚信，任何问题都有一个解决办法。而你的任务就是找到解决办法，无论这一概率是十分之九，还是千分之一，你的任务始终不变。”
 
@@ -47,7 +48,7 @@ tags:
 
 3,《麦哲伦传》，茨威格/传，海燕出版社，2001年
 
-<img src="http://img3.douban.com/lpic/s6283872.jpg" width="315" height="420" class="alignnone" />
+![麦哲伦传](https://img3.doubanio.com/lpic/s6283872.jpg)
 
 “这个从来不再任何人面前流露自己感情的严厉的军人，突然被内心深处涌出的一股热流所制服了。他的眼睛模糊了，激动的热泪盈眶而出，滚落到他那散乱的黑须上。”
 
@@ -55,7 +56,7 @@ tags:
 
 4,《一代新机器的灵魂》，特雷西·基德尔/著，机械工业出版社，1990年
 
-<img src="http://img3.douban.com/lpic/s6941674.jpg" width="309" height="429" class="alignnone" />
+![一代新机器的灵魂](https://img3.doubanio.com/lpic/s6941674.jpg)
 
 “至于机器的真正发明人，工程师们，我看他们在这种活动中显得有点不合群、或许是因为这些人很少经历这样的场合。……不知为什么，我竟冷不丁冒出这样一句话：“只不过是台计算机，你知道，这在世界上确实是件很小的事。””
 
@@ -63,7 +64,8 @@ tags:
 
 5,《黑客与画家：硅谷创业之父Paul Graham文集》，Paul Graham/著，人民邮电出版社，2011年
 
-<img src="http://img3.douban.com/lpic/s4669554.jpg" width="306" height="432" class="alignnone" />
+![黑客与画家：硅谷创业之父Paul Graham文集](http://img3.doubanio.com/lpic/s4669554.jpg)
+
 
 “创造优美事物的方式往往不是从头做起，而是在现有成果的基础上做一些小小的调整，或者将已有的观点用比较新的方式组合起来。”
 
@@ -73,7 +75,7 @@ YC创业营的创办人Paul Graham已经变成一种象征，推荐这本书实�
 
 6,《精益创业：新创企业的成长思维》，埃里克·莱斯/著，2012年
 
-<img src="http://img3.doubanio.com/lpic/s11137256.jpg" width="318" height="417" class="alignnone" />
+![精益创业：新创企业的成长思维](http://img3.doubanio.com/lpic/s11137256.jpg)
 
 “新创企业是一个由人组成的机构，在极端不确定的情况下，开发新产品或新服务。”
 
@@ -81,7 +83,7 @@ YC创业营的创办人Paul Graham已经变成一种象征，推荐这本书实�
 
 7,《创业必经的那些事》（1/2共两册），迈克尔·格伯/著，2010年10月
 
-<img src="http://img3.douban.com/lpic/s4500054.jpg" width="312" height="426" class="alignnone" />
+![创业必经的那些事](http://img3.doubanio.com/lpic/s4500054.jpg)
 
 “如果你正在经营一家小公司，或者说你想拥有一家小公司，那么，本书正是为你而写的。”
 
@@ -89,7 +91,8 @@ YC创业营的创办人Paul Graham已经变成一种象征，推荐这本书实�
 
 8,《启示录：打造用户喜欢的产品》，Marty Cagan/著，华中科技大学出版社，2011年
 
-<img src="http://www.ideastalk.net/wp-content/uploads/2016/01/42003_20140902103613972.jpg" alt="42003_20140902103613972" class="alignnone size-full wp-image-130" srcset="http://www.ideastalk.net/wp-content/uploads/2016/01/42003_20140902103613972.jpg 384w, http://www.ideastalk.net/wp-content/uploads/2016/01/42003_20140902103613972-250x333.jpg 250w, http://www.ideastalk.net/wp-content/uploads/2016/01/42003_20140902103613972-120x160.jpg 120w" sizes="(max-width: 384px) 100vw, 384px" />
+![启示录：打造用户喜欢的产品](https://img3.doubanio.com/lpic/s6474670.jpg)
+
 
 “本书是写给软件产品（包括企业级产品和大众产品）开发团队（特别是互联网软件产品团队）中负责定义产品的成员看的，他们通常被称为产品经理。这个职位常常由公司的创始人、高层主管、主程序员、设计师兼任。”
 
@@ -97,7 +100,7 @@ YC创业营的创办人Paul Graham已经变成一种象征，推荐这本书实�
 
 9,《四步创业法》，Steven Blank/著，华中科技大学出版社，2012年
 
-<img src="http://img3.douban.com/lpic/s11171520.jpg" width="286" height="390" class="alignnone" />
+![四步创业法](http://img3.doubanio.com/lpic/s11171520.jpg)
 
 “提出客户发展方法的目标是解决产品开发方法面临的10大问题。该方法把创业初期与客户相关的活动按目标划分为四个易于理解的阶段：客户探索、客户验证、客户培养和组建公司。”
 
@@ -105,7 +108,7 @@ YC创业营的创办人Paul Graham已经变成一种象征，推荐这本书实�
 
 10,《大决策：九个不朽的领导力传奇故事》，迈克尔·尤西姆/著，机械工业出版社，2007年
 
-<img src="http://img3.douban.com/lpic/s5761535.jpg" width="327" height="408" class="alignnone" />
+![大决策：九个不朽的领导力传奇故事](http://img3.doubanio.com/lpic/s5761535.jpg)
 
 “此次探险活动需要一个强有力的领导，而不是一个独裁者。”
 
@@ -113,7 +116,7 @@ YC创业营的创办人Paul Graham已经变成一种象征，推荐这本书实�
 
 11,《丰田汽车案例：精益制造的14项管理原则》，杰弗里·莱克/著，中国财政经济出版社，2004年
 
-<img src="http://img3.doubanio.com/lpic/s1164668.jpg" width="350" height="487" class="alignnone" />
+![丰田汽车案例：精益制造的14项管理原则](http://img3.doubanio.com/lpic/s1164668.jpg)
 
 “丰田模式可以扼要地总结为两大支柱：一为“持续改进”（continuous Improvement）,二为“尊重员工”（respect for people）。一般把持续改进成为日语的改善（kaizen）,它挑战所有事，其精髓含义不仅仅是个人贡献的实际改善，更重要的是创造持续学习的精神，接受并保持变革的环境。”
 
@@ -121,7 +124,7 @@ YC创业营的创办人Paul Graham已经变成一种象征，推荐这本书实�
 
 12,《跨越鸿沟：颠覆性产品营销圣经》，杰弗里·摩尔/著，机械工业出版社，2009年
 
-<img src="http://img3.doubanio.com/lpic/s5965836.jpg" width="306" height="435" class="alignnone" />
+![跨越鸿沟：颠覆性产品营销圣经](http://img3.doubanio.com/lpic/s5965836.jpg)
 
 “在高科技产品市场的开发过程中，最危险最关键的一点就是由少数有远见者所主宰的早期市场向由实用主义占支配地位的大批顾客所占据的主流市场的过渡。”
 
@@ -129,7 +132,7 @@ YC创业营的创办人Paul Graham已经变成一种象征，推荐这本书实�
 
 13，《创新者的窘境》，克莱顿·克里斯坦森/著，中信出版社，2010年
 
-<img src="http://img3.douban.com/lpic/s27776092.jpg" width="318" height="417" class="alignnone" />
+![创新者的窘境](http://img3.doubanio.com/lpic/s27776092.jpg)
 
 ““技术”一词指的是一个组织将劳动力、资本、原材料和技术转化为价值更高的产品和服务的过程。”
 
@@ -137,7 +140,7 @@ YC创业营的创办人Paul Graham已经变成一种象征，推荐这本书实�
 
 14，《企业参谋》，大前研一/著，中信出版社，2007年
 
-<img src="http://img3.douban.com/lpic/s3233882.jpg" width="306" height="435" class="alignnone" />
+![企业参谋](http://img3.doubanio.com/lpic/s3233882.jpg)
 
 “我的处女作《企业参谋》是我30岁到31岁间所做的笔记。29岁那年我进入麦肯锡公司工作，对经营一无所知，于是一边工作一边学习，留下这些笔记。那时我初出茅庐，做这些笔记时完全没有想到有一天能出版，我只是按照自己多年的习惯把学到的东西表达出来，仅此而已。”
 
@@ -145,7 +148,8 @@ YC创业营的创办人Paul Graham已经变成一种象征，推荐这本书实�
 
 15，《创业之初你不可不知的融资知识》，桂曙光/著，机械工业出版社，2012年
 
-<img src="http://img3.douban.com/lpic/s4399264.jpg" width="315" height="420" class="alignnone" />
+![创业之初你不可不知的融资知识](http://img3.doubanio.com/lpic/s4399264.jpg)
+
 
 “VC其实跟一般的生产企业模式类似，他们先从一些优质的创业者手里低价买入原料——这些创业企业的股份，然后对原料进行加工——给企业提供一些增值服务，或者干脆就等着创业者自己努力，从而使这些股份原材料成为更加规范的产品，并获得价值提升。”
 
@@ -155,7 +159,7 @@ YC创业营的创办人Paul Graham已经变成一种象征，推荐这本书实�
 
 16，《错不在我？》，卡罗尔·塔夫里斯、艾略特·阿伦森/著， 中信出版社，2013年
 
-<img src="http://img3.douban.com/lpic/s27189842.jpg" width="309" height="429" class="alignnone" />
+![错不在我？](http://img3.doubanio.com/lpic/s27189842.jpg)
 
 “在有意识撒谎欺骗他人与下意识地自我辩护欺骗自己之间，有一块被不可靠、自利的记忆掌握的灰色地带。记忆通常都会受自我提升偏误(self-enhancing bias)修正和改变，让过去发生的事情变得模糊，减轻责难，扭曲事实的真相。”
 
@@ -163,7 +167,7 @@ YC创业营的创办人Paul Graham已经变成一种象征，推荐这本书实�
 
 17，《创业无畏：指数级成长路线图》，彼得·戴曼迪斯、斯蒂芬·科特勒/著，浙江人民出版社，2015年
 
-<img src="http://img3.douban.com/lpic/s28270594.jpg" width="336" height="393" class="alignnone" />
+![创业无畏：指数级成长路线图](http://img3.doubanio.com/lpic/s28270594.jpg)
 
 “为便于大家更加方便地掌握指数型技术的特点，我构建了一个“6D”框架：数字化(digitalization)、欺骗性(deception)、颠覆性(disruption)、非货币化(demonetization)、非物质化(dematerialization)和大众化(democratization)。这6D其实是指数型技术发展的连锁反应，也是导致巨大动荡并带来难得机遇的快速发展路线图。”
 
@@ -171,7 +175,8 @@ YC创业营的创办人Paul Graham已经变成一种象征，推荐这本书实�
 
 18，《九败一胜：美团创始人王兴创业十年》，李志刚/著，北京联合出版社，2014年
 
-<img src="http://img3.doubanio.com/lpic/s27451407.jpg" width="309" height="432" class="alignnone" />
+![九败一胜：美团创始人王兴创业十年](http://img3.doubanio.com/lpic/s27451407.jpg)
+
 
 “我们是一家电商公司，交易额是由B端和C端完成的，怎样把用户从七八千万，变成2亿、4亿、5亿，这需要我们扩展B，也扩展C，有足够的B，足够的C就有足够的交易额。我们会尝试新的机会，包括餐饮、酒店、电影、休闲游等；在公司外面也会有新的尝试。总体上来说，应对这场战争，我们是要增强团队，通过各方面的改进提升人均效率，我们还有太多地方需要改进和提升。”
 
@@ -179,7 +184,8 @@ YC创业营的创办人Paul Graham已经变成一种象征，推荐这本书实�
 
 19，《深度生存：生还是死难？》，劳伦斯·冈萨雷斯/著，中国对外翻译出版公司，2006年
 
-<img src="http://img3.douban.com/lpic/s5662864.jpg" width="309" height="432" class="alignnone" />
+![深度生存：生还是死难？](http://img3.douban.com/lpic/s5662864.jpg)
+
 
 “一般而言，我建议大家尽量远离那些英雄气过重的人，比如兰博式的硬汉人物，也不要接近那些总爱抱怨或者啼啼哭哭的人。应该信赖富有幽默感——特别是自嘲的那种幽默感——以及对自己有清醒认识的人。谁能充分利用周围条件，而且能够承认现实，熟悉环境，并且关爱他人，谁的生还几率就往往更大。说来说去，无论身处何境地，生还不外乎是对环境的适应。”
 
@@ -187,7 +193,8 @@ YC创业营的创办人Paul Graham已经变成一种象征，推荐这本书实�
 
 20，《卓有成效的管理者》，彼得·德鲁克/著，上海译文出版社，1999年
 
-<img src="http://img3.doubanio.com/lpic/s26537216.jpg" width="303" height="438" class="alignnone" />
+![卓有成效的管理者](http://img3.doubanio.com/lpic/s26537216.jpg)
+
 
 ““认识你自己”这句充满智慧的古训对现代的凡人来说实在是太难理解了。不过，如果你喜欢自己的工作卓有成效、能为别人作出贡献的话，那你还是可以遵照掌握自己的时间这一条去做的。”
 

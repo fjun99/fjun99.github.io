@@ -27,11 +27,9 @@ tags:
 
 为什么在做着实践操作的我们，要读一些看似理论性的著作，而非那些更偏重实务型的？实务型的书籍其实并不能解决我们的问题，因为实际情况总是千差万别，而理论性的著作却在更根本的层次帮我们理解所要应对的议题。
 
-<!--more-->
-
 这个清单，绝不局限于当年出版的新书，也包括那些有经典影响的著作（部分可能已经绝版），同时又不断地迭代更新，以包括最新的著作。所有的荐读为全新撰写。这次的遗憾是，虽然移动互联网和 APP 经济对我们的生活产生着巨大的影响，我们的手机都装着一些 APP，但是，却还没能找到一本研究 APP 的著作。最近看到著名心理学家霍华德·加德纳（Howard Gardner）出版一本《APP 一代》(The App Generation)，不过这并不是一本关于 APP 的书，而是关于新一代年轻人的书。
 
-<img src="http://www.ideastalk.net/wp-content/uploads/2014/12/01.jpg" alt="01" class="aligncenter size-full wp-image-14" srcset="http://www.ideastalk.net/wp-content/uploads/2014/12/01.jpg 300w, http://www.ideastalk.net/wp-content/uploads/2014/12/01-250x370.jpg 250w, http://www.ideastalk.net/wp-content/uploads/2014/12/01-120x177.jpg 120w" sizes="(max-width: 300px) 100vw, 300px" />
+![信息的社会层面](https://img1.doubanio.com/lpic/s6093587.jpg)
 
 1、《信息的社会层面》，[美] 约翰·希利·布朗、保罗·杜奎德 / 著，商务印书馆，2003 年 10 月
 
@@ -41,7 +39,7 @@ The Social Life of Information, John Seely Brown, Paul Duguild, 2000
 
 过分专注于信息造成了对社会环境的忽视，但正是后者有助于人们理解信息可能意味着什么，以及为什么信息很重要。
 
-<img src="http://www.ideastalk.net/wp-content/uploads/2014/12/02.jpg" alt="02" class="aligncenter size-full wp-image-15" srcset="http://www.ideastalk.net/wp-content/uploads/2014/12/02.jpg 312w, http://www.ideastalk.net/wp-content/uploads/2014/12/02-250x341.jpg 250w, http://www.ideastalk.net/wp-content/uploads/2014/12/02-120x163.jpg 120w" sizes="(max-width: 312px) 100vw, 312px" />
+![当下的冲击](https://img3.doubanio.com/lpic/s27109850.jpg)
 
 2、《当下的冲击：当数字化时代来临，一切突然发生》， [美] 达格拉斯·洛西科夫 / 著，中信出版社，2013 年 10 月
 
@@ -51,7 +49,7 @@ Present Shock: When everything happens now, Douglas Rushkoff, 2013
 
 我们的情况更像活在某种心猿意马的“当下”，放大了外围力量却忽视了眼前事物。由于不得不临阵磨枪，应对那些即时发生的、可能扰乱我们的外部影响，我们制定计划的能力被削弱，更别提执行计划的能力了。我们无法在此时此刻安顿下来，而是疲于应对冲动和压力的困扰。
 
-<img src="http://www.ideastalk.net/wp-content/uploads/2014/12/03.jpg" alt="03" class="aligncenter size-full wp-image-16" srcset="http://www.ideastalk.net/wp-content/uploads/2014/12/03.jpg 315w, http://www.ideastalk.net/wp-content/uploads/2014/12/03-250x335.jpg 250w, http://www.ideastalk.net/wp-content/uploads/2014/12/03-120x161.jpg 120w" sizes="(max-width: 315px) 100vw, 315px" />
+![移动浪潮：移动智能如何改变世界](https://img1.doubanio.com/lpic/s27637458.jpg)
 
 3、《移动浪潮：移动智能如何改变世界》， [美] 迈克尔·塞勒 / 著，中信出版社，2013 年 1 月
 
@@ -61,7 +59,7 @@ The Mobile Wave: How mobile intelligence change everything, Michael Saylor, 2012
 
 科技是酸性的，它将烧毁在经济、工业和产品中累积的低效率。它溶解了产业链中多余的环节，缩短它，减少成本和时间。它删除了层层中间环节，并且让人们看到腐败。科技的酸性腐蚀了所有多余的东西，改造事物，然后只留下能够承受它的核心和精髓。
 
-<img src="http://www.ideastalk.net/wp-content/uploads/2014/12/04.jpg" alt="04" class="aligncenter size-full wp-image-17" srcset="http://www.ideastalk.net/wp-content/uploads/2014/12/04.jpg 330w, http://www.ideastalk.net/wp-content/uploads/2014/12/04-250x304.jpg 250w, http://www.ideastalk.net/wp-content/uploads/2014/12/04-120x146.jpg 120w" sizes="(max-width: 330px) 100vw, 330px" />
+![大数据时代](https://img3.doubanio.com/lpic/s24574862.jpg)
 
 4、《大数据时代：生活、工作与思维的大变革》，[英] 维克托·迈尔 &#8211; 舍恩伯格、肯尼思·库克耶 / 著，浙江人民出版社，2013 年 1 月
 
@@ -75,7 +73,7 @@ Big Data: A revolution that will transform how we live, work and think, Viktor M
 
 《信号与噪声》，纳特·希尔弗 / 著。这位统计学家发现，大数据时代的预测活动发展得并不顺利。
 
-<img src="http://www.ideastalk.net/wp-content/uploads/2014/12/05.jpg" alt="05" class="aligncenter size-full wp-image-18" />
+![手机：挡不住的呼唤](https://img1.doubanio.com/lpic/s9910637.jpg)
 
 5、《手机：挡不住的呼唤》，[美] 保罗·莱文森 / 著，中国人民大学出版社，2004 年 8 月
 
@@ -85,7 +83,7 @@ Cellphone: The story of the world’s most mobile medium and how it has transfor
 
 独立于手机的互联网，开发了海量、多样且容易检索的信息。有了手机之后，我们不但能够获取这些信息，而且能够与任何人交谈——在阳光下、大海边、山顶上或城市中心的繁华街道边，想和谁交谈都行。有了手机之后，我们就不再二者必选其一：信息或现实、交谈或自然。那真是……鱼和熊掌二者皆得……
 
-<img src="http://www.ideastalk.net/wp-content/uploads/2014/12/06.jpg" alt="06" class="aligncenter size-full wp-image-19" srcset="http://www.ideastalk.net/wp-content/uploads/2014/12/06.jpg 303w, http://www.ideastalk.net/wp-content/uploads/2014/12/06-250x361.jpg 250w, http://www.ideastalk.net/wp-content/uploads/2014/12/06-120x173.jpg 120w" sizes="(max-width: 303px) 100vw, 303px" />
+![数字化生存](https://img1.doubanio.com/lpic/s29280807.jpg)
 
 6、《数字化生存》，[美] 尼葛洛庞帝 / 著，胡泳、范海燕 / 译，海南出版社，1997 年 2 月
 
@@ -95,7 +93,7 @@ Being Digital, Nicholas Negroponte, 1995
 
 在广大浩瀚的宇宙中，数字化生存能使每个人变得更容易接近，让弱小孤寂者也能发出他们的心声。
 
-<img src="http://www.ideastalk.net/wp-content/uploads/2014/12/07.jpg" alt="07" class="aligncenter size-full wp-image-20" srcset="http://www.ideastalk.net/wp-content/uploads/2014/12/07.jpg 303w, http://www.ideastalk.net/wp-content/uploads/2014/12/07-250x361.jpg 250w, http://www.ideastalk.net/wp-content/uploads/2014/12/07-120x173.jpg 120w" sizes="(max-width: 303px) 100vw, 303px" />
+![小块松散组合](https://img3.doubanio.com/lpic/s2171044.jpg)
 
 7、《小块松散组合》，[美] 戴维·温伯格 / 著，中信出版社、辽宁教育出版社，2003 年 1 月
 
@@ -111,7 +109,9 @@ Small Pieces Loosely Joined, David Weinberger, 2002
 
 《裂变：看得见的未来》，醒客（陈世鸿）/ 著，机械工业出版社，2010 年 6 月
 
-<img src="http://www.ideastalk.net/wp-content/uploads/2014/12/08.jpg" alt="08" class="aligncenter size-full wp-image-21" srcset="http://www.ideastalk.net/wp-content/uploads/2014/12/08.jpg 400w, http://www.ideastalk.net/wp-content/uploads/2014/12/08-250x367.jpg 250w, http://www.ideastalk.net/wp-content/uploads/2014/12/08-120x176.jpg 120w" sizes="(max-width: 400px) 100vw, 400px" />
+
+![网络共和国](https://img3.doubanio.com/lpic/s1436334.jpg)
+
 
 8、《网络共和国：网络社会中的民主问题》，[美] 凯斯·桑斯坦 / 著，上海世纪出版集团，2003 年 6 月
 
@@ -121,7 +121,8 @@ Republic.com 2.0, Cass R. Sunstein , 2009
 
 事情的发展看来有点神奇，亚马逊或其他同类网站的推荐，品质都出奇的好，好得叫人惊诧。（许多人都是从中发现他们喜爱的新作家。）但人们可能因此眼界窄小，或只沉溺于固有的品味。例如，某个政治信念坚定者在网站上找到更多持相同看法的作者，并且被鼓励去阅读其他相同的见解，从而强化他既有的判断。在一个民主社会里，这难道不会造成麻烦吗？
 
-<img src="http://www.ideastalk.net/wp-content/uploads/2014/12/09.jpg" alt="09" class="aligncenter size-full wp-image-22" srcset="http://www.ideastalk.net/wp-content/uploads/2014/12/09.jpg 200w, http://www.ideastalk.net/wp-content/uploads/2014/12/09-120x180.jpg 120w" sizes="(max-width: 200px) 100vw, 200px" />
+![链接：网络新科学](https://img1.doubanio.com/lpic/s26885008.jpg)
+
 
 9、《链接：网络新科学》，[美] 艾伯特 &#8211; 拉斯洛·巴拉巴西 / 著，湖南科学技术出版社，2007 年 4 月 （《链接 : 商业、科学与生活的新思维 (十周年纪念版)》，浙江人民出版社, 2013 年 8 月新版）
 
@@ -131,7 +132,8 @@ The New Science Of Networks, Albert-laszlo Barabasi , Jennifer Frangos ,2002
 
 21 世纪初，一伙特立独行的科学家发现，网络具有深层的秩序，依据简单而强有力的规则运行。这一领域的知识，可以帮助我们了解时尚、病毒等的传播机制，了解生态系统的稳健性，以及经济体系的脆弱性——甚至是民主的未来。
 
-<img src="http://www.ideastalk.net/wp-content/uploads/2014/12/10.jpg" alt="10" class="aligncenter size-full wp-image-23" srcset="http://www.ideastalk.net/wp-content/uploads/2014/12/10.jpg 150w, http://www.ideastalk.net/wp-content/uploads/2014/12/10-120x180.jpg 120w" sizes="(max-width: 150px) 100vw, 150px" />
+![信息规则：网络经济的策略指导](https://img3.doubanio.com/lpic/s29588162.jpg)
+
 
 10、《信息规则：网络经济的策略指导》，[美] 卡尔·夏皮罗、哈尔·瓦里安 / 著，中国人民大学出版社，2000 年 6 月
 
@@ -141,7 +143,7 @@ Information Rules: A strategic guide to the network economy, Carl Shapiro, Hal V
 
 如果你想理解互联网对你和你的企业有何意义，你可以从百年前电话系统的建立中得到许多启发。
 
-<img src="http://www.ideastalk.net/wp-content/uploads/2014/12/11.jpg" alt="11" class="aligncenter size-full wp-image-24" srcset="http://www.ideastalk.net/wp-content/uploads/2014/12/11.jpg 400w, http://www.ideastalk.net/wp-content/uploads/2014/12/11-250x370.jpg 250w, http://www.ideastalk.net/wp-content/uploads/2014/12/11-120x177.jpg 120w" sizes="(max-width: 400px) 100vw, 400px" />
+![信息就是信息：布隆伯格自述](https://img1.doubanio.com/lpic/s6110967.jpg)
 
 11、《信息就是信息：布隆伯格自述》，迈克·布隆布格 / 著，1998 年 1 月
 
@@ -151,7 +153,7 @@ Bloomberg By Bloomberg, Michael Bloomberg, 1997
 
 我们的第一批产品包括 22 套终端、键盘和显示器，我们的计划是给美林公司安装他们订购的 20 台，我们自己用另外两台作为技术开发和后援服务。结果不用说你也想得到，我们所有 22 台都装在他们的交易大厅里。&#8211;1982
 
-<img src="http://www.ideastalk.net/wp-content/uploads/2014/12/12.jpg" alt="12" class="aligncenter size-full wp-image-25" srcset="http://www.ideastalk.net/wp-content/uploads/2014/12/12.jpg 306w, http://www.ideastalk.net/wp-content/uploads/2014/12/12-250x355.jpg 250w, http://www.ideastalk.net/wp-content/uploads/2014/12/12-120x170.jpg 120w" sizes="(max-width: 306px) 100vw, 306px" />
+![众声喧哗：网络时代的个人表达与公共讨论](https://img3.doubanio.com/lpic/s27044801.jpg)
 
 12、《众声喧哗：网络时代的个人表达与公共讨论》，胡泳 / 著, 广西师范大学出版社，2008 年 9 月
 
@@ -165,7 +167,7 @@ The Rising Cacophony
 
 《群众与权利》，[德] 埃利亚斯·卡内提 / 著，中央编译出版社，2003 年月（Mass Und Macht, Elias Canetti，1960），此为 1981 年诺贝尔文学奖得主卡内提最具影响力的著作。
 
-<img src="http://www.ideastalk.net/wp-content/uploads/2014/12/13.jpg" alt="13" class="aligncenter size-full wp-image-26" srcset="http://www.ideastalk.net/wp-content/uploads/2014/12/13.jpg 297w, http://www.ideastalk.net/wp-content/uploads/2014/12/13-250x373.jpg 250w, http://www.ideastalk.net/wp-content/uploads/2014/12/13-120x179.jpg 120w" sizes="(max-width: 297px) 100vw, 297px" />
+![长尾理论](https://img3.doubanio.com/lpic/s27276233.jpg)
 
 13、《长尾理论》，[美] 克里斯·安德森 / 著，中信出版社，2006 年
 
@@ -175,7 +177,7 @@ The Long Tail, Chris Anderson, 2006
 
 千篇一律或说一种产品卖遍天下的时代正在结束，它的地位正在被一种新事物取代——一个多样化的市场。
 
-<img src="http://www.ideastalk.net/wp-content/uploads/2014/12/14.jpg" alt="14" class="aligncenter size-full wp-image-27" srcset="http://www.ideastalk.net/wp-content/uploads/2014/12/14.jpg 312w, http://www.ideastalk.net/wp-content/uploads/2014/12/14-250x341.jpg 250w, http://www.ideastalk.net/wp-content/uploads/2014/12/14-120x163.jpg 120w" sizes="(max-width: 312px) 100vw, 312px" />
+![认知盈余：自由时间的力量](https://img3.doubanio.com/lpic/s7000076.jpg)
 
 14、《认知盈余：自由时间的力量》，[美] 克莱·舍基 / 著，中国人民大学出版社，2011 年
 
@@ -185,7 +187,7 @@ Cognitive surplus: creativity and generosity in a connected age, Clay Shirky, 20
 
 这是一个不平凡的时代，因为我们现在可以把自由时间当做一种普遍的社会资产，用于大型的共同创造的项目，而不是一组仅供个人消磨的一连串时间。
 
-<img src="http://www.ideastalk.net/wp-content/uploads/2014/12/15.jpg" alt="15" class="aligncenter size-full wp-image-28" srcset="http://www.ideastalk.net/wp-content/uploads/2014/12/15.jpg 408w, http://www.ideastalk.net/wp-content/uploads/2014/12/15-250x352.jpg 250w, http://www.ideastalk.net/wp-content/uploads/2014/12/15-120x169.jpg 120w" sizes="(max-width: 408px) 100vw, 408px" />
+![搜](https://img1.doubanio.com/lpic/s6127057.jpg)
 
 15、《搜》，[美] 约翰·巴特利 / 著，中信出版社，2006 年
 
@@ -195,7 +197,8 @@ The Search, John Batelle, 2005
 
 管理世界上所有的信息，使所有人都能得到和使用它们。
 
-<img src="http://www.ideastalk.net/wp-content/uploads/2014/12/16.jpg" alt="16" class="aligncenter size-full wp-image-29" srcset="http://www.ideastalk.net/wp-content/uploads/2014/12/16.jpg 312w, http://www.ideastalk.net/wp-content/uploads/2014/12/16-250x341.jpg 250w, http://www.ideastalk.net/wp-content/uploads/2014/12/16-120x163.jpg 120w" sizes="(max-width: 312px) 100vw, 312px" />
+![Facebook效应](https://img3.doubanio.com/lpic/s4528546.jpg)
+
 
 16、《Facebook效应：看Facebook如何打造无与伦比的社交帝国》，大卫·柯克帕特里克 / 著，华文出版社，2010 年
 
@@ -205,7 +208,7 @@ The Facebook Effect: The inside story of the company that is connecting the worl
 
 在 Facebook 上人们给群组起的标题大多是“我打赌能找到 100 万个讨厌乔治·布什的人”此类，但莫拉莱斯不喜欢这样的标题，尽管他觉得这 100 万的想法很好，但是这类标题太幼稚了。有一首著名的西班牙歌曲叫“100 万个朋友”。一百万个反对哥伦比亚革命武装力量的人？“声音”听起来更有味道，于是他决定给群组起名为“反对哥伦比亚革命武装力量的 100 万个声音”。
 
-<img src="http://www.ideastalk.net/wp-content/uploads/2014/12/17.jpg" alt="17" class="aligncenter size-full wp-image-30" srcset="http://www.ideastalk.net/wp-content/uploads/2014/12/17.jpg 294w, http://www.ideastalk.net/wp-content/uploads/2014/12/17-250x382.jpg 250w, http://www.ideastalk.net/wp-content/uploads/2014/12/17-120x183.jpg 120w" sizes="(max-width: 294px) 100vw, 294px" />
+![被出卖的新闻界](https://img1.doubanio.com/lpic/s25800137.jpg)
 
 17、《被出卖的新闻界：相信我，我在说谎，一个媒体操纵者的告白》，莱恩·霍利得 / 著，2013 年 2 月，脸谱出版（台湾）
 
@@ -215,7 +218,9 @@ Trust me, I’m Lying: Confessions of a media manipulator, Ryan Holiday, 2012
 
 说好听一点，我的工作是负责行销和公关，或是搞网络行销策略和广告的人员。但那是为了掩饰我丑陋的实际工作，其实我真正的工作是一个媒体操纵者，利用对网络特性的撒谎、贿赂，靠谎言陌生。就是欺骗媒体，再任由媒体来欺骗你；所以我也算是那些畅销博客作者和知名品牌的共犯。
 
-<img src="http://www.ideastalk.net/wp-content/uploads/2014/12/18.jpg" alt="18" class="aligncenter size-full wp-image-31" srcset="http://www.ideastalk.net/wp-content/uploads/2014/12/18.jpg 297w, http://www.ideastalk.net/wp-content/uploads/2014/12/18-250x376.jpg 250w, http://www.ideastalk.net/wp-content/uploads/2014/12/18-120x180.jpg 120w" sizes="(max-width: 297px) 100vw, 297px" />
+
+![群的智慧](https://img3.doubanio.com/lpic/s26637016.jpg)
+
 
 18、《群的智慧：向蚂蚁、蜜蜂、飞鸟学习组织运作绝技》，Peter Miller，2010，天下文化（台湾）
 
@@ -225,7 +230,8 @@ The Smart Swarm: How understanding flocks, schools, and colonies can make us bet
 
 他们或许懂得不多，却有本事以简驭繁，将复杂的问题分散处理。他们绝对算不上聪明，但却能运用集体决策系统，做出最好的决定。他们根本没有领导者，然而那协调一致的疾驰、飞行，却如此精确得出奇。
 
-<img src="http://www.ideastalk.net/wp-content/uploads/2014/12/19.jpg" alt="19" class="aligncenter size-full wp-image-32" srcset="http://www.ideastalk.net/wp-content/uploads/2014/12/19.jpg 300w, http://www.ideastalk.net/wp-content/uploads/2014/12/19-250x356.jpg 250w, http://www.ideastalk.net/wp-content/uploads/2014/12/19-120x171.jpg 120w" sizes="(max-width: 300px) 100vw, 300px" />
+![游戏改变世界](https://img3.doubanio.com/lpic/s29093246.jpg)
+
 
 19、《游戏改变世界：游戏化如何让现实变得更美好》，简·麦格尼柯尔 / 著，浙江人民出版社，2012
 
@@ -241,7 +247,8 @@ Reality Is Broken: Why games make us better and how they can change the world, J
 
 Everything Bad is Good for You: How Today&#8217;s Popular Culture is Actually Making Us Smarter , Steven Johnson, 2006
 
-<img src="http://www.ideastalk.net/wp-content/uploads/2014/12/20.jpg" alt="20" class="aligncenter size-full wp-image-33" srcset="http://www.ideastalk.net/wp-content/uploads/2014/12/20.jpg 200w, http://www.ideastalk.net/wp-content/uploads/2014/12/20-120x180.jpg 120w" sizes="(max-width: 200px) 100vw, 200px" />
+![美国大城市的死与生](https://img1.doubanio.com/lpic/s1397229.jpg)
+
 
 20、《美国大城市的死与生》，[加拿大] 简·雅各布斯 / 著，译林出版社，2005 年 1 月
 
