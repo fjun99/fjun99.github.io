@@ -1,16 +1,28 @@
 ---
 ---
 
-@import "{{ minima}}";
+@import "minima";
 
 
 p {
-  font-size: 16px;
-  line-height: 1.75em;
+  font-size: 18px;
+  line-height: 2.2em;
   padding-right: 0.5em; 
   padding-left: 1em;
+  padding-bottom:1em;
 }
 
+ul,li{
+  font-size: 18px;
+  line-height: 2.2em;
+  list-style-type:circle;
+  padding-left:20px;
+}
+
+ul{
+#   padding-top:1em;
+   padding-bottom:1em;
+}
 blockquote, q {
   border-left: 6px solid rgb(58, 213, 45);
   padding: 0 1em;
@@ -24,13 +36,14 @@ h1, h2, h3, h4, h5, h6 {
   margin: 1.3em 0 1em;
   padding: 0;
   font-weight: bold;
-  text-align: center;
+#  text-align: center;
 
 }
 
 
 h1 {
   font-size: 20px;
+#  text-align:left;
 }
 
 h2 {
@@ -38,11 +51,19 @@ h2 {
   line-height: 28px;
   display: inline-block;
   font-size: 18px;
+  color: rgb(58, 213, 45);
   margin:1em 0 1em 0 auto;
   padding: 1.2em 0.5em 0em 1em;
-  text-align: center;
+#  text-align: center;
   font-weight: bold;
   display: flex;
   flex-direction: column;
   justify-content: center;
+}
+
+img {
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  padding: 30px 0 30px 0;
 }
