@@ -2,6 +2,4 @@
 layout: page
 title:contact
 ---
-
-
-contacact page
+this is contacact page
