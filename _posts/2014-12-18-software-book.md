@@ -27,7 +27,7 @@ tags:
 
 ![设计原本](https://img1.doubanio.com/lpic/s26543619.jpg)
 
-《设计原本：计算机科学巨匠Frederick P. Brooks的思考》（The Design of Design）
+### 《设计原本：计算机科学巨匠Frederick P. Brooks的思考》（The Design of Design）
   
 作者：Frederick P. Brooks
 
@@ -39,7 +39,7 @@ tags:
 ![设计规则：模块化的力量](https://img3.doubanio.com/lpic/s1628873.jpg)
 
 
-《设计规则：模块化的力量》（Design Rules）
+### 《设计规则：模块化的力量》（Design Rules）
   
 作者：卡丽斯·鲍温德 金·克拉克
 
@@ -51,7 +51,7 @@ tags:
 
 ![像外行一样思考，像专家一样实践](https://img3.doubanio.com/lpic/s2139766.jpg)
 
-《像外行一样思考，像专家一样实践》
+### 《像外行一样思考，像专家一样实践》
   
 作者：[日]金出武雄
 
@@ -63,8 +63,7 @@ tags:
 
 ![技术领导者之路](https://img3.doubanio.com/lpic/s29658804.jpg)
 
-
-《技术领导者之路》(Becoming A Technical Leader)
+### 《技术领导者之路》(Becoming A Technical Leader)
   
 作者：杰拉尔德·温伯格
 
@@ -76,7 +75,7 @@ tags:
 
 ![人月神话](https://img3.doubanio.com/lpic/s28040623.jpg)
 
-《人月神话》
+### 《人月神话》
   
 作者：Frederick P. Brooks
 
@@ -90,7 +89,7 @@ tags:
 
 ![设计，人类的本性](https://img1.doubanio.com/lpic/s23007467.jpg)
 
-《设计，人类的本性》（To Engineer Is Human）
+### 《设计，人类的本性》（To Engineer Is Human）
   
 作者：亨利·波卓斯基
 

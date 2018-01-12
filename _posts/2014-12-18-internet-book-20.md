@@ -31,7 +31,7 @@ tags:
 
 ![信息的社会层面](https://img1.doubanio.com/lpic/s6093587.jpg)
 
-1、《信息的社会层面》，[美] 约翰·希利·布朗、保罗·杜奎德 / 著，商务印书馆，2003 年 10 月
+### 1、《信息的社会层面》，[美] 约翰·希利·布朗、保罗·杜奎德 / 著，商务印书馆，2003 年 10 月
 
 The Social Life of Information, John Seely Brown, Paul Duguild, 2000
 
@@ -41,7 +41,7 @@ The Social Life of Information, John Seely Brown, Paul Duguild, 2000
 
 ![当下的冲击](https://img3.doubanio.com/lpic/s27109850.jpg)
 
-2、《当下的冲击：当数字化时代来临，一切突然发生》， [美] 达格拉斯·洛西科夫 / 著，中信出版社，2013 年 10 月
+### 2、《当下的冲击：当数字化时代来临，一切突然发生》， [美] 达格拉斯·洛西科夫 / 著，中信出版社，2013 年 10 月
 
 Present Shock: When everything happens now, Douglas Rushkoff, 2013
 
@@ -51,7 +51,7 @@ Present Shock: When everything happens now, Douglas Rushkoff, 2013
 
 ![移动浪潮：移动智能如何改变世界](https://img1.doubanio.com/lpic/s27637458.jpg)
 
-3、《移动浪潮：移动智能如何改变世界》， [美] 迈克尔·塞勒 / 著，中信出版社，2013 年 1 月
+### 3、《移动浪潮：移动智能如何改变世界》， [美] 迈克尔·塞勒 / 著，中信出版社，2013 年 1 月
 
 The Mobile Wave: How mobile intelligence change everything, Michael Saylor, 2012
 
@@ -61,7 +61,7 @@ The Mobile Wave: How mobile intelligence change everything, Michael Saylor, 2012
 
 ![大数据时代](https://img3.doubanio.com/lpic/s24574862.jpg)
 
-4、《大数据时代：生活、工作与思维的大变革》，[英] 维克托·迈尔 &#8211; 舍恩伯格、肯尼思·库克耶 / 著，浙江人民出版社，2013 年 1 月
+### 4、《大数据时代：生活、工作与思维的大变革》，[英] 维克托·迈尔 &#8211; 舍恩伯格、肯尼思·库克耶 / 著，浙江人民出版社，2013 年 1 月
 
 Big Data: A revolution that will transform how we live, work and think, Viktor Mayer-Schonberger, Kenneth Cukier, 2013
 
@@ -75,7 +75,7 @@ Big Data: A revolution that will transform how we live, work and think, Viktor M
 
 ![手机：挡不住的呼唤](https://img1.doubanio.com/lpic/s9910637.jpg)
 
-5、《手机：挡不住的呼唤》，[美] 保罗·莱文森 / 著，中国人民大学出版社，2004 年 8 月
+### 5、《手机：挡不住的呼唤》，[美] 保罗·莱文森 / 著，中国人民大学出版社，2004 年 8 月
 
 Cellphone: The story of the world’s most mobile medium and how it has transformed everything!, Paul Levinson, 2004
 
@@ -85,7 +85,7 @@ Cellphone: The story of the world’s most mobile medium and how it has transfor
 
 ![数字化生存](https://img1.doubanio.com/lpic/s29280807.jpg)
 
-6、《数字化生存》，[美] 尼葛洛庞帝 / 著，胡泳、范海燕 / 译，海南出版社，1997 年 2 月
+### 6、《数字化生存》，[美] 尼葛洛庞帝 / 著，胡泳、范海燕 / 译，海南出版社，1997 年 2 月
 
 Being Digital, Nicholas Negroponte, 1995
 
@@ -95,7 +95,7 @@ Being Digital, Nicholas Negroponte, 1995
 
 ![小块松散组合](https://img3.doubanio.com/lpic/s2171044.jpg)
 
-7、《小块松散组合》，[美] 戴维·温伯格 / 著，中信出版社、辽宁教育出版社，2003 年 1 月
+### 7、《小块松散组合》，[美] 戴维·温伯格 / 著，中信出版社、辽宁教育出版社，2003 年 1 月
 
 Small Pieces Loosely Joined, David Weinberger, 2002
 
@@ -113,7 +113,7 @@ Small Pieces Loosely Joined, David Weinberger, 2002
 ![网络共和国](https://img3.doubanio.com/lpic/s1436334.jpg)
 
 
-8、《网络共和国：网络社会中的民主问题》，[美] 凯斯·桑斯坦 / 著，上海世纪出版集团，2003 年 6 月
+### 8、《网络共和国：网络社会中的民主问题》，[美] 凯斯·桑斯坦 / 著，上海世纪出版集团，2003 年 6 月
 
 Republic.com 2.0, Cass R. Sunstein , 2009
 
@@ -124,7 +124,7 @@ Republic.com 2.0, Cass R. Sunstein , 2009
 ![链接：网络新科学](https://img1.doubanio.com/lpic/s26885008.jpg)
 
 
-9、《链接：网络新科学》，[美] 艾伯特 &#8211; 拉斯洛·巴拉巴西 / 著，湖南科学技术出版社，2007 年 4 月 （《链接 : 商业、科学与生活的新思维 (十周年纪念版)》，浙江人民出版社, 2013 年 8 月新版）
+### 9、《链接：网络新科学》，[美] 艾伯特 &#8211; 拉斯洛·巴拉巴西 / 著，湖南科学技术出版社，2007 年 4 月 （《链接 : 商业、科学与生活的新思维 (十周年纪念版)》，浙江人民出版社, 2013 年 8 月新版）
 
 The New Science Of Networks, Albert-laszlo Barabasi , Jennifer Frangos ,2002
 
@@ -135,7 +135,7 @@ The New Science Of Networks, Albert-laszlo Barabasi , Jennifer Frangos ,2002
 ![信息规则：网络经济的策略指导](https://img3.doubanio.com/lpic/s29588162.jpg)
 
 
-10、《信息规则：网络经济的策略指导》，[美] 卡尔·夏皮罗、哈尔·瓦里安 / 著，中国人民大学出版社，2000 年 6 月
+### 10、《信息规则：网络经济的策略指导》，[美] 卡尔·夏皮罗、哈尔·瓦里安 / 著，中国人民大学出版社，2000 年 6 月
 
 Information Rules: A strategic guide to the network economy, Carl Shapiro, Hal Varian, 1999
 
@@ -145,7 +145,7 @@ Information Rules: A strategic guide to the network economy, Carl Shapiro, Hal V
 
 ![信息就是信息：布隆伯格自述](https://img1.doubanio.com/lpic/s6110967.jpg)
 
-11、《信息就是信息：布隆伯格自述》，迈克·布隆布格 / 著，1998 年 1 月
+### 11、《信息就是信息：布隆伯格自述》，迈克·布隆布格 / 著，1998 年 1 月
 
 Bloomberg By Bloomberg, Michael Bloomberg, 1997
 
@@ -155,7 +155,7 @@ Bloomberg By Bloomberg, Michael Bloomberg, 1997
 
 ![众声喧哗：网络时代的个人表达与公共讨论](https://img3.doubanio.com/lpic/s27044801.jpg)
 
-12、《众声喧哗：网络时代的个人表达与公共讨论》，胡泳 / 著, 广西师范大学出版社，2008 年 9 月
+### 12、《众声喧哗：网络时代的个人表达与公共讨论》，胡泳 / 著, 广西师范大学出版社，2008 年 9 月
 
 The Rising Cacophony
 
@@ -169,7 +169,7 @@ The Rising Cacophony
 
 ![长尾理论](https://img3.doubanio.com/lpic/s27276233.jpg)
 
-13、《长尾理论》，[美] 克里斯·安德森 / 著，中信出版社，2006 年
+### 13、《长尾理论》，[美] 克里斯·安德森 / 著，中信出版社，2006 年
 
 The Long Tail, Chris Anderson, 2006
 
@@ -179,7 +179,7 @@ The Long Tail, Chris Anderson, 2006
 
 ![认知盈余：自由时间的力量](https://img3.doubanio.com/lpic/s7000076.jpg)
 
-14、《认知盈余：自由时间的力量》，[美] 克莱·舍基 / 著，中国人民大学出版社，2011 年
+### 14、《认知盈余：自由时间的力量》，[美] 克莱·舍基 / 著，中国人民大学出版社，2011 年
 
 Cognitive surplus: creativity and generosity in a connected age, Clay Shirky, 2010
 
@@ -189,7 +189,7 @@ Cognitive surplus: creativity and generosity in a connected age, Clay Shirky, 20
 
 ![搜](https://img1.doubanio.com/lpic/s6127057.jpg)
 
-15、《搜》，[美] 约翰·巴特利 / 著，中信出版社，2006 年
+### 15、《搜》，[美] 约翰·巴特利 / 著，中信出版社，2006 年
 
 The Search, John Batelle, 2005
 
@@ -200,7 +200,7 @@ The Search, John Batelle, 2005
 ![Facebook效应](https://img3.doubanio.com/lpic/s4528546.jpg)
 
 
-16、《Facebook效应：看Facebook如何打造无与伦比的社交帝国》，大卫·柯克帕特里克 / 著，华文出版社，2010 年
+### 16、《Facebook效应：看Facebook如何打造无与伦比的社交帝国》，大卫·柯克帕特里克 / 著，华文出版社，2010 年
 
 The Facebook Effect: The inside story of the company that is connecting the world, David Kirkpatrick, 2010
 
@@ -210,7 +210,7 @@ The Facebook Effect: The inside story of the company that is connecting the worl
 
 ![被出卖的新闻界](https://img1.doubanio.com/lpic/s25800137.jpg)
 
-17、《被出卖的新闻界：相信我，我在说谎，一个媒体操纵者的告白》，莱恩·霍利得 / 著，2013 年 2 月，脸谱出版（台湾）
+### 17、《被出卖的新闻界：相信我，我在说谎，一个媒体操纵者的告白》，莱恩·霍利得 / 著，2013 年 2 月，脸谱出版（台湾）
 
 Trust me, I’m Lying: Confessions of a media manipulator, Ryan Holiday, 2012
 
@@ -222,7 +222,7 @@ Trust me, I’m Lying: Confessions of a media manipulator, Ryan Holiday, 2012
 ![群的智慧](https://img3.doubanio.com/lpic/s26637016.jpg)
 
 
-18、《群的智慧：向蚂蚁、蜜蜂、飞鸟学习组织运作绝技》，Peter Miller，2010，天下文化（台湾）
+### 18、《群的智慧：向蚂蚁、蜜蜂、飞鸟学习组织运作绝技》，Peter Miller，2010，天下文化（台湾）
 
 The Smart Swarm: How understanding flocks, schools, and colonies can make us better at communicating, decision making, and getting things done, Peter Miller, 2008
 
@@ -233,7 +233,7 @@ The Smart Swarm: How understanding flocks, schools, and colonies can make us bet
 ![游戏改变世界](https://img3.doubanio.com/lpic/s29093246.jpg)
 
 
-19、《游戏改变世界：游戏化如何让现实变得更美好》，简·麦格尼柯尔 / 著，浙江人民出版社，2012
+### 19、《游戏改变世界：游戏化如何让现实变得更美好》，简·麦格尼柯尔 / 著，浙江人民出版社，2012
 
 Reality Is Broken: Why games make us better and how they can change the world, Jane McGonigal, 2011
 
@@ -250,7 +250,7 @@ Everything Bad is Good for You: How Today&#8217;s Popular Culture is Actually Ma
 ![美国大城市的死与生](https://img1.doubanio.com/lpic/s1397229.jpg)
 
 
-20、《美国大城市的死与生》，[加拿大] 简·雅各布斯 / 著，译林出版社，2005 年 1 月
+### 20、《美国大城市的死与生》，[加拿大] 简·雅各布斯 / 著，译林出版社，2005 年 1 月
 
 The Death and Life of American Cities, Jane Jacobs, 1961
 
