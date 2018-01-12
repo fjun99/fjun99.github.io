@@ -1,2 +1,0 @@
-# ideastalk
-# ideastalk
