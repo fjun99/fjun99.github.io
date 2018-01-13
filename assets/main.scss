@@ -3,7 +3,9 @@
 
 @import "minima";
 
-
+.page-content .wrapper{
+   max-width:calc(800px - (60px * 2));
+}
 p {
   font-size: 18px;
   line-height: 2.2em;

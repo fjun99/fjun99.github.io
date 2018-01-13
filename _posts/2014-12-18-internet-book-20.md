@@ -245,7 +245,7 @@ Reality Is Broken: Why games make us better and how they can change the world, J
 
 《坏事变好事：大众文化让我们变得更聪明》，[美] 斯蒂文·约翰逊 / 著，中信出版社，2006 年
 
-Everything Bad is Good for You: How Today&#8217;s Popular Culture is Actually Making Us Smarter , Steven Johnson, 2006
+Everything Bad is Good for You: How Today's Popular Culture is Actually Making Us Smarter , Steven Johnson, 2006
 
 ![美国大城市的死与生](https://img1.doubanio.com/lpic/s1397229.jpg)
 
