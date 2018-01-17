@@ -15,6 +15,8 @@ tags:
 ---
 方军=文 撰写于2018年1月
 
+本书单有社群共创，并在最后附有部分朋友推荐书书单。
+
 （方军，Workface社群智库召集人，喜马拉雅「读懂互联网未来的50本书」主讲）
 
 WORKFACE中国创业者社群推荐图书：
@@ -64,6 +66,11 @@ Here Comes Everybody: The Power of Organizing Without Organizations
 
 《第五项修炼·心灵篇》
 《第五项修炼 实践篇》（上、下）
+
+
+### 1.7,《信任 : 社会美德与创造经济繁荣》，[美]弗朗西斯·福山， 广西师范大学出版社， 2016年3月
+
+![信任 ](https://img1.doubanio.com/lpic/s28593398.jpg)
 
 
 ## 2.关于前沿
