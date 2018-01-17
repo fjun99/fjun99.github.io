@@ -278,7 +278,7 @@ The timeless way of building
 
 之前版本记录：
 
-[洞察互联网的二十本书（2014版）](http://www.ideastalk.net/node/13)
+[洞察互联网的二十本书（2014版）](http://ideas.mindmeters.com/node/13)
 
 曾包括在2014版的图书推荐：
 
