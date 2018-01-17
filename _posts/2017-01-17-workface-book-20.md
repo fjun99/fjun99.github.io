@@ -156,5 +156,46 @@ Scarcity:Why Having Too Little Means So Much
 ![正念教练](https://img1.doubanio.com/lpic/s28851358.jpg)
 
 
+## 朋友推荐
+
+**安晓辉推荐**
+
+###《重塑自我：如何成为一个很幸福的人》，尼尔•帕斯理查，江苏文艺出版社 ， 2017年1月
+
+![重塑自我](https://img3.doubanio.com/lpic/s29218714.jpg)
+
+###《富足：改变人类未来的4大力量》， 彼得•戴曼迪斯 (Peter H. Diamandis) / 史蒂芬•科特勒 (Steven Kotler) ，湛庐文化/浙江人民出版社，2014年4月
+
+![富足](https://img3.doubanio.com/lpic/s27249636.jpg)
+
+Abundance：The Future Is Better Than You Think
+
+**Jingjing推荐**
+
+###《领导者的意识进化 : 迈向复杂世界的心智成长》，（美）珍妮弗•加维•贝格 Jennifer Garvey Berge， 北京师范大学出版社， 2017年8月
+
+![领导者的意识进化](https://img3.doubanio.com/lpic/s29647760.jpg)
+
+
+###《重塑组织：进化型组织的创建之道》， [比]弗雷德里克.莱卢 ， 东方出版社，2017年5月
+
+ REINVENTING ORGANIZATIONS
+译者: 进化组织研习社 
+
+![重塑组织](https://img3.doubanio.com/lpic/s29435950.jpg)
+
+
+###《感覺十書：蔣勳談美》，蔣勳 / 聯經出版公司 / 2017-6-2
+
+（二版）(附有聲CD)
+
+![感覺十書：蔣勳談美](https://img3.doubanio.com/lpic/s29602390.jpg)
+
+###《誠品時光》，林靜宜 ，遠見天下文化出版股份有限公司， 2017年7月
+
+《诚品时光》，林静宜，中信出版集团·见识城邦， 2017年12月
+
+![誠品時光](https://img3.doubanio.com/lpic/s29498171.jpg)
+
 
 
