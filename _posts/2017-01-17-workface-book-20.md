@@ -14,10 +14,10 @@ tags:
   - 阅读
 ---
 方军=文 撰写于2018年1月
+
 （方军，Workface社群智库召集人，喜马拉雅「读懂互联网未来的50本书」主讲）
 
 WORKFACE中国创业者社群推荐图书：
-
 
 - 关于社群  《U型理论》
 - 关于前沿   《区块链革命》
@@ -42,11 +42,12 @@ WORKFACE中国创业者社群推荐图书：
 
 ![重新定义管理： 合弄制改变世界](https://img1.doubanio.com/lpic/s28391007.jpg)
 
-### 1.4,《从莎草纸到互联网：社交媒体2000年》， [英]汤姆·斯丹迪奇 ，中信出版社，2015年2月
+### 1.4,《自由企业:释放员工,收获卓越》，布莱恩·M.卡内 (Brian M.Carney) ， 艾萨克·盖茨 (Isaac Getz)，中译出版社， 2017年11月
 
-Writing on the Wall : Social Media --The First 2,000 Years
+Freedom,inc.
 
-![从莎草纸到互联网](https://img3.doubanio.com/lpic/s28345900.jpg)
+
+![自由企业](https://images-cn.ssl-images-amazon.com/images/I/61EXn275VBL.jpg)
 
 ### 1.5,《人人时代： 无组织的组织力量》（经典版），[美] 克莱·舍基 ，浙江人民出版社，2015年6月
 
@@ -55,6 +56,15 @@ Here Comes Everybody: The Power of Organizing Without Organizations
 
 ![人人时代： 无组织的组织力量](https://img3.doubanio.com/lpic/s28093185.jpg)
 
+### 1.6,《第五项修炼 : 学习型组织的艺术与实践》彼得•圣吉 (Peter Senge) ,张成林 ，中信出版社， 2009年10月
+
+![第五项修炼 ](https://img3.doubanio.com/lpic/s27464484.jpg)
+
+相关图书：
+
+《第五项修炼·心灵篇》
+《第五项修炼 实践篇》（上、下）
+
 
 ## 2.关于前沿
 
@@ -62,7 +72,7 @@ Here Comes Everybody: The Power of Organizing Without Organizations
 
  Blockchain Revolution: How the Technology Behind Bitcoin Is Changing Money, Business, and the World
 
-![区块链革命](https://img3.doubanio.com/lpic/s29036054.jpg)
+![区块链革命](https://images-cn.ssl-images-amazon.com/images/I/71FmlbfKNbL.jpg)
 
 ### 2.2,《智能革命 : 迎接人工智能时代的社会、经济与文化变革》李彦宏 等， 中信出版集团，2017年 5月
 
@@ -127,7 +137,6 @@ Principles: Life and Work
 
 Deep Work: Rules for Focused Success in a Distracted World
 
-
 ![深度工作](https://img3.doubanio.com/lpic/s29470672.jpg)
 
 ### 4.4,《稀缺 : 我们是如何陷入贫穷与忙碌的》，塞德希尔·穆来纳森 / 埃尔德·沙菲尔，湛庐文化/浙江人民出版社，2014年11月
@@ -139,6 +148,12 @@ Scarcity:Why Having Too Little Means So Much
 ### 4.5,《创意，未来的工作方式》，方军，中信出版社， 2016年11月
 
 ![创意，未来的工作方式](https://img3.doubanio.com/lpic/s29152731.jpg)
+
+
+### 4.6,《正念教练》，[英]利兹霍尔（Liz Hall），机械工业出版社 ，2016年6月
+
+
+![正念教练](https://img1.doubanio.com/lpic/s28851358.jpg)
 
 
 
